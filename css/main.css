@@ -1,8 +1,41 @@
-.nav-menu {
-      text-align: right;
-    }
-.nav-spacing {
-      margin-left:10px;
-      text-decoration: none;
-      color: blue;
-    }
+  .nav-menu {
+        text-align: right;
+      }
+  .nav-spacing {
+        margin-left:10px;
+        text-decoration: none;
+        color: blue;
+      }
+  .image-link {
+        text-decoration: none;
+        color: blue;
+      }
+
+  .table_spacing {
+      padding: 10px;
+      }
+
+  .moby_header {
+    text-align: center; margin: 0 0 60px
+
+      }
+
+  .sperm_whales_img {
+    display: block; margin: 0 auto;
+      }
+
+  .moby_book_background {
+    width: 500px; margin: 20px auto; padding: 40px; background-color:#fcf2ca
+      }
+
+  .moby_book_cover {
+    width: 200px; float: left; margin: 10px 10px 10px 10px;
+      }
+
+  .moby_blockquote {
+    font-style: italic; font-size: 20px;
+      }
+
+  .Ishmael {
+    font-style: normal; font-size: 24px; font-weight: bold; color: red;
+      }
